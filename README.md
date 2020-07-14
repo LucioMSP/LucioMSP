@@ -1,7 +1,5 @@
 # Hi, I'm Vicente Guzmán 👋🏽 👨🏽‍💻
 
-![](https://i.imgur.com/VuKnN5P.jpg)
-
 I'm **Senior Software Engineer** who is passionate about new technologies such us **Xamarin**, **Blazor**, **Node.js** and **Alexa**. I am currently working as a Mobile Project Leader Software in a consultancy in México City.
 
 I'm recognized by Amazon as [Alexa Champion](https://developer.amazon.com/en-US/alexa/champions/vicente-lucio)
