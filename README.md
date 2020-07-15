@@ -14,7 +14,7 @@ You'll here find public repositories with Xamarin.Foms and Alexa Skills examples
 
 ![Lucio's github stats](https://github-readme-stats.vercel.app/api?username=luciomsp&show_icons=true)
 
-Made with :heart: and lines of code
+Made with :heart:
 
 <!--
 **LucioMSP/LucioMSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
