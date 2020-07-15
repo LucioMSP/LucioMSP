@@ -14,8 +14,6 @@ You'll here find public repositories with Xamarin.Foms and Alexa Skills examples
 
 ![Lucio's github stats](https://github-readme-stats.vercel.app/api?username=luciomsp&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luciomsp.luciomsp)
-
 Made with :heart: and lines of code
 
 <!--
