@@ -27,6 +27,7 @@ Made with :heart:
 </p>
 -->
 
+<img src="https://github.com/LucioMSP/luciomsp/blob/master/VicenteBanner.png" height="220" width="1020" title="LucioMSP"/>
 
 I'm **Senior Software Engineer** who is passionate about new technologies such us **Xamarin**, **Blazor**, **Node.js** and **Alexa**. I am currently working as a Mobile Project Leader Software in a consultancy in México City.
 
@@ -38,7 +39,7 @@ I'm recognized by Amazon as [Alexa Champion](https://developer.amazon.com/en-US/
 <a href="https://www.linkedin.com/in/vggl01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/luciomsp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/LucioMSP" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://open.spotify.com/user/luciomsp" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://dev.to/luciomsp" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </p>
