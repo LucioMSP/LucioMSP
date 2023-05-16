@@ -27,7 +27,7 @@ Made with :heart:
 </p>
 -->
 
-<img src="https://github.com/LucioMSP/luciomsp/blob/master/Vicente.jpg" height="220" width="1020" title="LucioMSP"/>
+<img src="https://github.com/LucioMSP/luciomsp/blob/master/VGGL.png" height="220" width="1020" title="LucioMSP"/>
 
 I'm **Senior Software Engineer** who is passionate about new technologies such us **Xamarin**, **Blazor**, **Node.js** and **Alexa**. I am currently working as a Mobile Project Leader Software in a consultancy in México City.
 
