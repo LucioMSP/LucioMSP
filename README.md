@@ -29,9 +29,15 @@ Made with :heart:
 
 <img src="https://github.com/LucioMSP/luciomsp/blob/master/VGGL.png" height="220" width="1020" title="LucioMSP"/>
 
-I'm **Senior Software Engineer** who is passionate about new technologies such us **Xamarin**, **Blazor**, **Node.js** and **Alexa**. I am currently working as a Mobile Project Leader Software in a consultancy in México City.
+I'm **Software Developer** who is passionate about new technologies such as **Xamarin**, **Blazor**, **Node.js** and **Alexa**. I am currently working as a Custom Software Engineering Team Lead at Accenture. Founded the [Blazor en Español](https://www.facebook.com/groups/blazoresespanol) community.
 
-I'm recognized by Amazon as [Alexa Champion](https://developer.amazon.com/en-US/alexa/champions/vicente-lucio)
+I invite you to my Blog Posts <a href="https://vicenteguzman.com">vicenteguzman.com</a> 
+
+Join to my <a href="https://www.facebook.com/profile.php?id=100088519489810">GitHub en Español Group</a> 
+
+##  Acknowledgments
+
+- [Alexa Champion](https://developer.amazon.com/en-US/alexa/champions/vicente-lucio)
 
 <!-- Social icons section -->
 <p align="center">
