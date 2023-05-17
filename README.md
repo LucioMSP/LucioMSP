@@ -38,6 +38,8 @@ Join to my <a href="https://www.facebook.com/profile.php?id=100088519489810">Git
 ##  Acknowledgments
 
 - [Alexa Champion](https://developer.amazon.com/en-US/alexa/champions/vicente-lucio)
+- [AWS Community Builder](https://aws.amazon.com/es/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Vicente&cb-cards.q_operator=AND)
+- [GitKraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors)
 
 <!-- Social icons section -->
 <p align="center">
