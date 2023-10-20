@@ -33,7 +33,7 @@ I'm **Software Developer** who is passionate about new technologies such as **Xa
 
 I invite you to my Blog Posts <a href="https://vicenteguzman.com">vicenteguzman.com</a> 
 
-Join to my <a href="https://www.facebook.com/profile.php?id=100088519489810">GitHub en Español Group</a> 
+Join to my <a href="https://www.facebook.com/profile.php?id=100088519489810](https://www.youtube.com/channel/UCM9wdzw_LU7_rZvyMo0s2LA">YouTube Chanel - Alexa Ninja</a> 
 
 ##  Acknowledgments
 
